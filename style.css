@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.speed{
+    float:left;
+}
+.volume{
+    float: right;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+#volume_button:hover{
+cursor:default;
+}
+#speed_button:hover{
+    cursor: default;
+}
+
+canvas{
+    border: 5px solid;
+    border-radius: 35px;
+    border-color: cornflowerblue;
+}
